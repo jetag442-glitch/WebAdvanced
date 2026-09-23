@@ -9,3 +9,38 @@ h1{
     word-spacing:20px;
     font-family:"Fake Identity";
 }
+p{
+    text-indent: 50px;
+    text-align: center;
+    writing-mode: horizontal-tb;
+}
+h2{
+    text-decoration: overline;
+}
+h3{
+    text-decoration: line-through;
+}
+h4{
+    text-decoration: underline;
+}
+.myElement{
+    color: blue;
+}
+#normalText{
+    font-style: normal;
+    font-weight: normal;
+}
+#italicText{
+    font-style: italic;
+    font-weight: bold;
+}
+#obliqueText{
+    font-style: oblique;
+    font-weight: 900;
+}
+p{
+    font-size: 60px;
+}
+h2{
+    font-size: 40px;
+}
