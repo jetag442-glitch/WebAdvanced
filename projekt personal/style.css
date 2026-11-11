@@ -1,0 +1,37 @@
+body {
+    background-color: pink;
+    color: rgb(52, 71, 52);
+    font-size: 18px;
+}
+
+.header {
+    background-color: #e5dfd0;
+    padding: 20px;
+    border: 1px solid darkgreen;
+}
+
+.header a {
+    color: darkgreen;
+    margin: 10px;
+}
+
+.header p {
+    margin: 10px;
+}
+
+.home {
+    padding: 40px;
+    margin: 20px;
+    border: 1px solid darkslategray;
+}
+
+.home {
+    width: 80%;
+}
+.topic{
+    background-color: #e5dfd0;
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid #263d35;
+    width: 250px;
+}
